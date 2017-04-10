@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+	Hello World{Hi};
+	123456"
+	(789.54);
+}

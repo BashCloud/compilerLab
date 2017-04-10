@@ -1,0 +1,2 @@
+A->aBB|aaBee|B
+B->bAA
